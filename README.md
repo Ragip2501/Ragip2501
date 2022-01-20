@@ -1,4 +1,4 @@
-<img src="https://github.com/ragip2501/ragip2501/blob/main/banner..png?raw=true">
+<img src="https://github.com/ragip2501/ragip2501/blob/main/banner_.png?raw=true">
 
 <h1 align="center">Hi,👋 I'm Ragip Dönmez</h1>
 
